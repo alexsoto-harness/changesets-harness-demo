@@ -1,0 +1,12 @@
+{
+  "name": "changesets-harness-demo",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "build": "echo \"(no build needed for demo)\"",
+    "release": "pnpm build && changeset publish"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.0"
+  }
+}
