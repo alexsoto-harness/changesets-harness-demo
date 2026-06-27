@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "main": "src/index.js",
   "dependencies": {
-    "@sotodemo/core": "1.1.0"
+    "@sotodemo/core": "workspace:^"
   },
   "publishConfig": {
     "access": "public"
