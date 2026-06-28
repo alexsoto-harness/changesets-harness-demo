@@ -1,5 +1,11 @@
 # @sotodemo/core
 
+## 1.2.1
+
+### Patch Changes
+
+- 7b730ef: Validate State 1 (Version Packages PR) path through the reusable step-group template. Throwaway changeset — safe to discard.
+
 ## 1.2.0
 
 ### Minor Changes
